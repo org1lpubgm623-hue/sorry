@@ -1,0 +1,15 @@
+<section>
+  <div class="card">
+    <h1>Хайрт NAME</h1>
+    <p>
+      Зарим зүйлс үгээр багтдаггүй.<br>
+      Тийм болохоор энэ жижигхэн дурсамжийг чамд зориуллаа.
+    </p>
+
+    <img src="photo1.jpg" alt="memory">
+
+    <div style="text-align:center">
+      <a href="#page2" class="btn">Үргэлжлүүлэх →</a>
+    </div>
+  </div>
+</section>
