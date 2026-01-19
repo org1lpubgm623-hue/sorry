@@ -1,0 +1,22 @@
+
+<section id="page3">
+  <div class="card">
+    <h1>Жинхэнэ бэлэг ❤️</h1>
+    <p>
+      Доорх кодыг уншуулаарай.<br>
+      Үлдсэнийг нь чи өөрөө мэдэрнэ.
+    </p>
+
+    <img
+      class="qr"
+      src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=ALBUM_LINK"
+      alt="QR code">
+
+    <p style="opacity:.6;margin-top:18px;">
+      Valentine • Forever
+    </p>
+  </div>
+</section>
+
+</body>
+</html>
