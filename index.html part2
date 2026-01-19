@@ -1,0 +1,19 @@
+
+<section id="page2">
+  <div class="card">
+    <h1>Бидний дуу 🎵</h1>
+    <p>
+      Заримдаа ганц дуу бүх дурсамжийг сэрээдэг.
+    </p>
+
+    <iframe
+      src="https://youtu.be/4tqC1Ck546U?si=WkOxGnSa9hiXJdOX"
+      allow="autoplay; encrypted-media"
+      allowfullscreen>
+    </iframe>
+
+    <div style="text-align:center">
+      <a href="#page3" class="btn">Дараагийнх →</a>
+    </div>
+  </div>
+</section>
